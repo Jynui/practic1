@@ -1,0 +1,14 @@
+C:\Users\tagir\source\repos\practika1\practika1\obj\Debug\practika1.csproj.AssemblyReference.cache
+C:\Users\tagir\source\repos\practika1\practika1\obj\Debug\MainWindow.g.cs
+C:\Users\tagir\source\repos\practika1\practika1\obj\Debug\App.g.cs
+C:\Users\tagir\source\repos\practika1\practika1\obj\Debug\practika1_MarkupCompile.cache
+C:\Users\tagir\source\repos\practika1\practika1\bin\Debug\practika1.exe.config
+C:\Users\tagir\source\repos\practika1\practika1\bin\Debug\practika1.exe
+C:\Users\tagir\source\repos\practika1\practika1\bin\Debug\practika1.pdb
+C:\Users\tagir\source\repos\practika1\practika1\obj\Debug\MainWindow.baml
+C:\Users\tagir\source\repos\practika1\practika1\obj\Debug\practika1.g.resources
+C:\Users\tagir\source\repos\practika1\practika1\obj\Debug\practika1.Properties.Resources.resources
+C:\Users\tagir\source\repos\practika1\practika1\obj\Debug\practika1.csproj.GenerateResource.cache
+C:\Users\tagir\source\repos\practika1\practika1\obj\Debug\practika1.csproj.CoreCompileInputs.cache
+C:\Users\tagir\source\repos\practika1\practika1\obj\Debug\practika1.exe
+C:\Users\tagir\source\repos\practika1\practika1\obj\Debug\practika1.pdb
